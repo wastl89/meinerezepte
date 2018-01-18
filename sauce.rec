@@ -1,4 +1,4 @@
-* Sauce Hollandaise
+* DONE Sauce Hollandaise
 ** Zutaten
 Sud
 | 100 | ml     | Weißwein      |
@@ -22,7 +22,7 @@ Hollandaise (2 Personen)
 2. Die Mischung nicht zu heiß werden lassen, sonst gerinnt diese.
 3. Wenn die Mischung leicht andickt kann die Butter langsam unter die Ei Mischung geschlagen werden.
 4. Am Ende mit Paprika, Zitronensaft und Salz abschmecken.
-* Béchamelsoße
+* DONE Béchamelsoße
 ** Zutaten
 |   1 | El | Butter          |
 |   1 | Tl | Mehl            |
@@ -36,7 +36,7 @@ Hollandaise (2 Personen)
 3. Milch und Sahne zugeben und 2-3 min köcheln lassen. Mit der Brühe, Salz und Pfeffer abschmecken.
 4. Vom Herd nehmen und Petersilie zugeben.
 
-* Milde Currypaste
+* DONE Milde Currypaste
 ** Zutaten
 |   5 |              | Schalotten   |
 |   2 | Zehen        | Knoblauch    |
@@ -52,7 +52,7 @@ Hollandaise (2 Personen)
 1. Schalotten, Knoblauch und Ingwer schälen und pürieren.
 2. Pfeffer und Nelken im Mörser zermahlen.
 3. Alles zusammen mischen.
-* Ketchup
+* TODO Ketchup
 Ergibt ca. 1L
 ** Zutaten
 |   1 | kg | Tomaten |
@@ -65,7 +65,7 @@ Ergibt ca. 1L
 3. Wer mag kann es jetzt durch ein Sieb streichen um Körner und Schalenreste zu entfernen.
 4. Nochma erhitzten und bei Bedarf etwas andicken.
 
-* Curry Ketchup
+* TODO Curry Ketchup
 Ergibt ca 250ml
 ** Zutaten
 |   2 |                    | Zwiebeln   |
@@ -75,11 +75,11 @@ Ergibt ca 250ml
 | 1/4 | Tl                 | Cuminsamen |
 |   1 | Tl                 | Butter     |
 | 200 | ml                 | Ketchup    |
-** Zubereitung
+** DONE Zubereitung
 1. Zwiebeln in Scheiben schneiden, Knoblauch und Ingwer schälen und reiben. Tomaten würfeln.
 2. Zwiebeln mit der Butter in einer Pfanne langsam bräunen, dann die restlichen ZUtaten zugeben und leicht mit dünsten.
-3. Zusammen mit dem Ketchup pürieren.
-* Bolognese
+3. Zusammen mit dem Ketchup püriere.n
+* DONE Bolognese
 ** Zutaten
 |   2 |            | Zwiebeln            |
 |   2 | Zehen      | Knoblauch           |
@@ -101,3 +101,20 @@ Ergibt ca 250ml
 3. Wenn die Zwiebeln leicht glasig sind, mit dem Wein ablöschen und stark einreduzieren.
 4. Gewürze und Tomaten zugeben. Aufkochen und dann bei geringer Hitze ca 30min köcheln lassen.
 5. Kurz vor Ende Kräuter entfernen und Milch zugeben. Mit Salz/Pfeffer/Zucker abschmecken.
+* TODO BBQ-Soße
+** Zutaten
+|   1 | kleine       | Zwiebel            |
+|   1 | halber       | Apfel              |
+|  30 | ml           | Kanadischer Whisky |
+|   1 | El           | Sojasoße           |
+|   1 | El           | Balsamico Essig    |
+|   1 | El           | Agavendicksaft     |
+|   5 | El           | Ketchup            |
+| 1/4 | Tl           | Knoblauchpulver    |
+| 1/2 | Tl           | Paprikapulver      |
+|   1 | Messerspitze | Zimt               |
+|   4 | Spritzer     | Tabasco            |
+** Zubereitung
+1. Zwiebel glasig dünsten, Äpfel dazugeben und leicht mit bräunen.
+2. Mit Whisky flambieren.
+3. Restliche Zutaten zugeben und verrühren.
